@@ -7,9 +7,11 @@ I make projects just for fun, I am passionate about numbers and enjoy using data
 Still interested? you can check out my website: https://derekyayoo.onrender.com/
 
 ## Skills and Experience
-:technologist:
-
-Skills: Rstudio /Python/ Tableau /Jira/UI/UX/SQL/Video Analysis
+:technologist: Rstudio, Python, SQL, Tableau, Jira.
+:memo: Script Writing, Code Documentation.
+:chart_with_upwards_trend: Data Visualisation, Forecasting Analysis.
+:art: 3D Modelling - Characterization, 3D Builds
+:goal_net: Tactical Management, Performance Analysis, Pre-Post Match Analysis. 
 
 - 🔭 I’m currently working on Developing my Animated Football Series 
 - 🌱 I’m currently learning 3D Modelling - Blender 
