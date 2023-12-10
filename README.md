@@ -6,6 +6,9 @@ I make projects just for fun, I am passionate about numbers and enjoy using data
 
 Still interested? you can check out my website: https://derekyayoo.onrender.com/
 
+## Skills and Experience
+:technologist:
+
 Skills: Rstudio /Python/ Tableau /Jira/UI/UX/SQL/Video Analysis
 
 - 🔭 I’m currently working on Developing my Animated Football Series 
