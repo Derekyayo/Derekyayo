@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derekyayo)](https://github.com/anuraghazra/github-readme-stats)
 #### Data Analytics and Quality Assurance | Football | Gaming
 ![Data Analytics and Quality Assurance | Football | Gaming](https://www.canva.com/design/DAFajbE_cdw/view)
 
