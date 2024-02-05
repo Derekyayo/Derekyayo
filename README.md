@@ -1,9 +1,9 @@
 # Hello There Explorer :monocle_face:
 
-#### Data Analytics and Quality Assurance | Football | Gaming
-![Data Analytics and Quality Assurance | Football | Gaming](https://www.canva.com/design/DAFajbE_cdw/view)
+#### Data Analyst and Data Scientist
+![Data Analytics | Data Science | Data Engineering | Quality Assurance (https://www.canva.com/design/DAFajbE_cdw/view)
 
-My name is Usman and I am what you can call a data nerd, I do a lot of data analytics, football analysis, 3d modelling and gaming. I enjoy learning and anyone can learn to use and benefit from data. when I am not working or adding projects to my portfolio I am geeking out watching anime to relax.  when outdoors I enjoy the occasional hiking and would like to explore other cultures if possible. 
+My name is Usman and I am what you can call a data nerd, I do a lot of data analytics, data science, football analysis, and gaming. I enjoy learning and anyone can learn to use and benefit from data. when I am not working or adding projects to my portfolio I am geeking out watching anime to relax.  when outdoors I enjoy the occasional hiking and would like to explore other cultures if possible. 
 I make projects just for fun, I am passionate about numbers and enjoy using data to uncover insights and tell stories. I have completed several data-focused projects as well as dealing with data-driven decision-making for half a decade. 
 
 Still interested? you can check out my website: https://derekyayoo.onrender.com/
@@ -15,10 +15,10 @@ Still interested? you can check out my website: https://derekyayoo.onrender.com/
 :art: 3D Modelling - Characterization, 3D Builds
 :goal_net: Tactical Management, Performance Analysis, Pre-Post Match Analysis. 
 
-- 🔭 I’m currently working on Developing my Animated Football Series 
-- 🌱 I’m currently learning 3D Modelling - Blender 
-- 👯 I’m looking to collaborate on Football Analytics and Gaming 
-- 🤔 I’m looking for help with Game Developers 
+- 🔭 I’m currently working on developing my brand as a data analyst.
+- 🌱 I’m developing various business, finance, and customer service models.  
+- 👯 I’m looking to collaborate on data projects. 
+- 🤔 I’m looking to help organisations uncover insights with the help of data. 
 - 💬 Ask me about Data  
 - 📫 How to reach me: yahayausman500@gmail.com 
 
